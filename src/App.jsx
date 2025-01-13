@@ -54,7 +54,6 @@ const App = () => {
         <WeatherForecastItem day={wed.day} conditions={wed.conditions} time={wed.time} img={wed.img} imgAlt={wed.imgAlt}/>
         <WeatherForecastItem day={thu.day} conditions={thu.conditions} time={thu.time} img={thu.img} imgAlt={thu.imgAlt}/>
         <WeatherForecastItem day={fri.day} conditions={fri.conditions} time={fri.time} img={fri.img} imgAlt={fri.imgAlt}/>
-        
       </section>
     </>
   );
