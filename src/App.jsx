@@ -3,6 +3,7 @@
 import WeatherForecastItem from "./components/WeatherForecast/WeatherForecast";
 
 
+
 const weatherForecasts = [
   {
     day: "Mon",
